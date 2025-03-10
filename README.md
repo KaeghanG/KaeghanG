@@ -10,7 +10,7 @@ Here’s a diagram of my homelab setup:
 
 ![Homelab Diagram](homelab/images/homelab.png)
 
-I use Proxmox for virtualization, pfSense for networking, and Docker for containerization.
+I use Proxmox for virtualization and Docker for containerization.
 
 
 ## 🌐 Socials:
