@@ -8,7 +8,7 @@ Hi there, I'm Kaeghan! 👋<br><br>Welcome to my GitHub profile! I'm a HelpDesk 
 
 Here’s a diagram of my homelab setup:
 
-![Homelab Diagram](homelab/images/homelab-diagram.png)
+![Homelab Diagram](homelab/images/homelabdiagram.png)
 
 I use Proxmox for virtualization, pfSense for networking, and Docker for containerization.
 
