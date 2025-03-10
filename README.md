@@ -1,5 +1,16 @@
 # 💫 About Me:
-Hi there, I'm Kaeghan! 👋<br><br>Welcome to my GitHub profile! I'm a HelpDesk Administrator/Admin Assistant passionate about Open-Source technologies, breaking and fixing things :) . I love solving problems, learning new technologies, and collaborating with others to create impactful solutions.<br>🚀 About Me<br><br>    🔐 Cybersecurity Enthusiast: Currently studying for the CompTIA Security+ certification to deepen my knowledge of network security, risk management, and threat mitigation.<br><br>    🖥️ Homelab Hobbyist: I run a personal homelab where I experiment with [Technologies You Use, e.g., virtualization, networking, penetration testing, etc.]. It’s my playground for learning and testing new tools!<br><br>    🛡️ Security Focus: Passionate about securing systems, hardening networks, and staying up-to-date with the latest cybersecurity trends.<br><br>    🧠 Continuous Learner: Always exploring new technologies and methodologies to improve my skills in IT and cybersecurity.<br><br>    🛠️ Hands-On Experience: My homelab includes [Your Homelab Setup, e.g., Proxmox, pfSense, Active Directory, Docker, etc.], where I simulate real-world scenarios and practice defensive and offensive techniques.<br><br>    🌐 Networking Nerd: I love tinkering with networking concepts like VLANs, VPNs, and firewalls to build secure and efficient systems.<br><br>    🐧 Linux Lover: Proficient in Linux environments and enjoy automating tasks with Bash and Python.<br><br>    🎧 Music Enthusiast: I’m always listening to Metal/Lofi while working<br><br>    🎯 Goal: To leverage my homelab experience and Security+ knowledge to build a career in cybersecurity and contribute to making the digital world safer.<br>    <br>    <br><br>    📫 How to reach me: kaeghan.gochee@outlook.com<br>
+Hi there, I'm Kaeghan! 👋<br><br>Welcome to my GitHub profile! I'm a HelpDesk Administrator/Admin Assistant passionate about Open-Source technologies, breaking, and fixing things :) . I love solving problems, learning new technologies, and collaborating with others to create impactful solutions.<br>🚀 About Me<br><br>    🔐 Cybersecurity Enthusiast: Currently studying for the CompTIA Security+ certification to deepen my knowledge of network security, risk management, and threat mitigation.<br><br>    🖥️ Homelab Hobbyist: I run a personal homelab where I experiment with [Technologies You Use, e.g., virtualization, networking, penetration testing, etc.]. It’s my playground for learning and testing new tools!<br><br>    🛡️ Security Focus: Passionate about securing systems, hardening networks, and staying up-to-date with the latest cybersecurity trends.<br><br>    🧠 Continuous Learner: Always exploring new technologies and methodologies to improve my skills in IT and cybersecurity.<br><br>    🛠️ Hands-On Experience: My homelab includes [Your Homelab Setup, e.g., Proxmox, pfSense, Active Directory, Docker, etc.], where I simulate real-world scenarios and practice defensive and offensive techniques.<br><br>    🌐 Networking Nerd: I love tinkering with networking concepts like VLANs, VPNs, and firewalls to build secure and efficient systems.<br><br>    🐧 Linux Lover: Proficient in Linux environments and enjoy automating tasks with Bash and Python.<br><br>    🎧 Music Enthusiast: I’m always listening to Metal/Lofi while working<br><br>    🎯 Goal: To leverage my homelab experience and Security+ knowledge to build a career in cybersecurity and contribute to making the digital world safer.<br>    <br>    <br><br>    📫 How to reach me: kaeghan.gochee@outlook.com<br>
+
+
+
+
+# My Homelab Setup
+
+Here’s a diagram of my homelab setup:
+
+![Homelab Diagram](/images/homelab-diagram.png)
+
+I use Proxmox for virtualization, pfSense for networking, and Docker for containerization.
 
 
 ## 🌐 Socials:
@@ -20,5 +31,8 @@ Hi there, I'm Kaeghan! 👋<br><br>Welcome to my GitHub profile! I'm a HelpDesk 
 
 ---
 [![](https://visitcount.itsvg.in/api?id=KaeghanG&icon=0&color=0)](https://visitcount.itsvg.in)
+
+
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
