@@ -27,12 +27,3 @@ Hi there, I'm Kaeghan! 👋<br><br>Welcome to my GitHub profile! I'm a HelpDesk 
 
 
 
-# My Homelab Setup
-
-Here’s a diagram of my homelab setup:
-
-![Homelab Diagram](homelab/images/homelab.png)
-
-I use Proxmox for virtualization and Docker for containerization.
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
